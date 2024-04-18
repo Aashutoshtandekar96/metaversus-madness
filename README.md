@@ -27,8 +27,8 @@ Welcome to Metaverse Madness! This project is a thrilling journey into the realm
 **Cloning the Repository**
 
 ```bash
-git clone 
-cd travel_ui_ux
+git clone https://github.com/Aashutoshtandekar96/metaversus-madness.git
+cd metaversus-madness
 ```
 
 **Installation**
